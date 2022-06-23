@@ -1,0 +1,18 @@
+.123 {
+    filter: alpha(Opacity=75);  
+    opacity: 0.75
+	 position: fixed;  
+	}  
+   }
+   .transparent50 {
+    filter: alpha(Opacity=50);
+    opacity: 0.5; 
+   }
+   .transparent25 {
+    filter: alpha(Opacity=25);
+    opacity: 0.25; 
+   }
+   body {
+    background: url(флаграсеи.png) no-repeat;
+    background-size: 100%;  
+   }
